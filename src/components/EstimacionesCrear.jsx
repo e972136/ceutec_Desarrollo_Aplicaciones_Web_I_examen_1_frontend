@@ -94,7 +94,7 @@ export const EstimacionesCrear = () => {
                                 disabled/>
                         </div>
                         <div className="col-6  mt-1">
-                            <a  className="btn btn-warning form-control">
+                            <a href='/admin-repuestos' className="btn btn-warning form-control">
                                 LISTA DE REPUESTOS NECESARIOS A REEMPLAZAR
                                 <i className="fa fa-pencil-square-o" aria-hidden="true"></i>
                             </a>
